@@ -1,5 +1,5 @@
-PImage miPaisaje;
-void setup () {
+PImage miPaisaje;                           //Ibrahin Vaca Villegas
+void setup () {                             //Comisión 2
   size (800, 400); 
   background (250, 150, 56);
   miPaisaje = loadImage ("miPaisaje.jpg"); 
