@@ -1,4 +1,6 @@
+
 //FUNCIONES:
+
 boolean esPar(int numero){//parametros --> variable int numero
   return(numero%2==0);
 }
